@@ -24,11 +24,3 @@ With pip
 ## Basic Usage
 
 > Your docs
-
-## How to contribute
-
-* Review our code of conduct
-
-# License
-
-View in https://github.com/eocode/Hello-my-world/blob/master/LICENSE
