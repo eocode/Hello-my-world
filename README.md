@@ -19,7 +19,7 @@ Your demo project
 
 With pip
 
-    pip install hello_my_world
+    pip install Hello-My-World
 
 ## Basic Usage
 
