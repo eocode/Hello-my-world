@@ -15,9 +15,8 @@ setuptools.setup(
     version='0.1.0',
     author='eocode',
     author_email='hola@eliasojedamedina.com',
-    license='MIT license',
     description='A simple package for python',
-    long_description_content_type='A simple package make with a cookiecutter',
+    long_description_content_type="text/markdown",
     long_description=open("README.md").read()
     + "\n\n"
     + open("CHANGELOG.md").read()
@@ -25,9 +24,8 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=("tests",)),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT license",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 3.7",
     ],
     project_urls=project_urls,
     install_requires=[],
