@@ -31,4 +31,4 @@ With pip
 
 # License
 
-View in https://github.com/eocode/hello_my_world/blob/master/LICENSE
+View in https://github.com/eocode/Hello-my-world/blob/master/LICENSE
