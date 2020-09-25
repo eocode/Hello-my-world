@@ -11,17 +11,17 @@ project_urls = {
 }
 
 setuptools.setup(
-    name=Hello My World,
-    version=0.1.0,
-    author=eocode,
-    author_email=hola@eliasojedamedina.com,
-    license=MIT license,
-    description=A simple package for python,
-    long_description_content_type=A simple package make with a cookiecutter,
+    name='Hello My World',
+    version='0.1.0',
+    author='eocode',
+    author_email='hola@eliasojedamedina.com',
+    license='MIT license',
+    description='A simple package for python',
+    long_description_content_type='A simple package make with a cookiecutter',
     long_description=open("README.md").read()
     + "\n\n"
     + open("CHANGELOG.md").read()
-    + +open("AUTHORS.md").read(),
+    + open("AUTHORS.md").read(),
     packages=setuptools.find_packages(exclude=("tests",)),
     classifiers=[
         "Programming Language :: Python :: 3",
